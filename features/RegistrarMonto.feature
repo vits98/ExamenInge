@@ -5,5 +5,5 @@ Para poder almacenar mi dinero
 Scenario:
 Given visito la pagina de ingresar dinero 
 And ingreso un monto "monto" en el campo "monto"
-When presiono el btn "enviar"
+When presiono el btn "Ingresar"
 Then deberia mostrar "monto"
